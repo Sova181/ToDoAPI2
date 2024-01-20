@@ -2,7 +2,7 @@ using Microsoft.EntityFrameworkCore;
 using TodoApi.Models;
 
 var builder = WebApplication.CreateBuilder(args);
-var = builder.Build(); //проверка 
+
 
 // Add services to the container.
 
